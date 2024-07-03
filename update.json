@@ -7,5 +7,6 @@
     ],
     "replace_files": [
         "update.py"
-    ]
+    ],
+    "version": "Tic_Tac_Toe_Alpha_1.0"
 }
