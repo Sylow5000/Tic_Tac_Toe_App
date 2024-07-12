@@ -1,8 +1,0 @@
-{
-    "how_to_play_rules": [
-        {"title": "How To Win:", "description": "The player must get the desired \"winning length\" of his/her symbols in a row. This can be 3 up to 5 symbols in a row."},
-        {"title": "Move Points:", "description": "Every player will receive a certain amount of points for each move they make. The faster they move the more points they receive. Computer difficulty also plays a factor into determining the move points."},
-        {"title": "Bonus Points:", "description": "After the game is over, the player will receive bonus points on how they performed in the game. If the player lost, points may be taken off. If the player won, points may also be added. Computer difficulty & timer speed also plays a huge factor into determining the bonus points."},
-        {"title": "Casual vs Pro Mode:", "description": "Casual mode is a mode that a player can set and not have to worry about their performance dropping. If they lose a game or perform poorly, that won\"t be on recorded on their Pro score. Pro mode, on the other hand, is what the players are rated by. The worse your Pro score is, the lower you will rank."}
-    ]
-}
